@@ -1,0 +1,16 @@
+# HarvestHopper Configuration
+
+# Debug mode flag
+# When enabled, debug messages will be logged to the console
+debug: false
+
+# Crops hopper configuration
+crops:
+  # Display name of the crops hopper
+  name: "&b&sCrops Hopper"
+  
+  # Lore of the crops hopper
+  lore:
+    - "&e&sA magical hopper imbued with the essence of nature."
+    - "&e&sAutomatically harvests crops in its vicinity."
+    - "&e&sA valuable tool for any farmer or adventurer."

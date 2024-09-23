@@ -1,0 +1,11 @@
+name: HarvestHoppers
+version: '${project.version}'
+main: codes.bed.harvesthoppers.HarvestHoppers
+author: Bed
+api-version: 1.14
+softdepend:
+  - PlaceholderAPI
+prefix: BEDS
+website: bed.codes
+description: Automate farming with hoppers and redstone, collecting and transporting resources with ease.
+load: POSTWORLD
